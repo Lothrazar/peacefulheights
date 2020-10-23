@@ -86,6 +86,13 @@ public class PeacefulMod {
       //either its a player, or a non-monster, or an un-natrual spawn
       return false;//dont deny
     }
+    String dim = entity.world.getDimensionKey().getRegistryName().toString();
+    if (ConfigManager.IsDimListed(dim) == false) {
+      if (ConfigManager.PRINTLOGS.get())
+        //        LOGGER.info("does not apply to this dimension = " + dim);
+        return false;
+    }
+    //we know the dimension IS listed
     //its a natural spawn
     //it is a monster
     //its NOT a player
