@@ -8,5 +8,7 @@ A Forge mod for Minecraft Java
 
 - Open as a Gradle project in Eclipse (or your favorite Java IDE)
 
-[![](http://cf.way2muchnoise.eu/CURSEID.svg)](https://www.curseforge.com/minecraft/mc-mods/CURSELINK) 
-[![](http://cf.way2muchnoise.eu/versions/CURSEID.svg)](https://www.curseforge.com/minecraft/mc-mods/CURSELINK)
+https://www.curseforge.com/minecraft/mc-mods/peaceful-heights
+
+[![](http://cf.way2muchnoise.eu/412686.svg)](https://www.curseforge.com/minecraft/mc-mods/peaceful-heights) 
+[![](http://cf.way2muchnoise.eu/versions/412686.svg)](https://www.curseforge.com/minecraft/mc-mods/peaceful-heights)
